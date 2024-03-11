@@ -8,3 +8,12 @@
     - 파이썬 기본 리뷰
     - 빅데이터 분석 기초
 
+## [2일차](https://github.com/soiooooooooooooo/bigdata-analysis-2024/blob/main/README.md)
+- 빅데이터 학습
+    - 빅데이터 분석 기초(계속)
+        - 기본 라이브러리 사용법 학습
+
+## 3일차
+- 빅데이터학습
+    - 빅데이터 분석 기초(학습)
+        - 기본 라이브러리 사용법
