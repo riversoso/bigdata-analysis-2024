@@ -23,4 +23,4 @@
 - 0.5 ~ 0.9 의 결과가 나오는 변수들끼리 재분석
 - 결측치 검색, 제거
 
-![상관분석히트맵](https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2024/main/images/ba014.png)
+![상관분석히트맵](https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2024/main/images/ba014.png)       
