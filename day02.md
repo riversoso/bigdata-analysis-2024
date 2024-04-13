@@ -8,7 +8,7 @@
 ##### Pandas 학습 (계속)
 2. Pandas 내용 통합(merge, concat)
 
-    ![concat결과](https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2024/main/images/ba002.png)
+    ![concat결과](https://raw.githubusercontent.com/riversoso/bigdata-analysis-2024/main/images/ba002.png)
 
 3. Pivot테이블
 
@@ -32,13 +32,13 @@ Matplotlib 기본, Searborn은 Matlot.lib 확장버전
 - 크롬드라이버 필수
 
     1. 현재 크롬 브라우저 버전 확인
-        ![크롬버전확인](https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2024/main/images/ba003.png)
+        ![크롬버전확인](https://raw.githubusercontent.com/riversoso/bigdata-analysis-2024/main/images/ba003.png)
 
     2. https://googlechromelabs.github.io/chrome-for-testing/ 에서 다운로드
     3. 시스템 속성 > 환경변수 경로 등록
     4. 셀레니움 연동, 실행
 
-        ![셀레니움연동](https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2024/main/images/ba004.png)
+        ![셀레니움연동](https://raw.githubusercontent.com/riversoso/bigdata-analysis-2024/main/images/ba004.png)
 
 
 
